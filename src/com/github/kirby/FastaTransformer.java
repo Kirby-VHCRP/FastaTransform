@@ -39,7 +39,7 @@ public class FastaTransformer {
 
         String inputLine;
         int lineTrack = 1;
-        outputWriter.write("ParticipantID\tSequenceNum\tHCVSequence");
+        outputWriter.write("ParticipantID\tVisitID\tHCVSequence");
         outputWriter.newLine();
 
         while((inputLine = inputReader.readLine()) != null){
