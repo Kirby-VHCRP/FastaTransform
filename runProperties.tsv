@@ -1,0 +1,17 @@
+TargetStudy		java.lang.String
+ParticipantVisitResolver	SampleInfo	java.lang.String
+containerPath	/VHKEY3	java.lang.String
+baseUrl	https://labkeytest.kirby.unsw.edu.au/labkey	java.lang.String
+assayId	Sequence transfromation	java.lang.String
+protocolDescription		java.lang.String
+assayType	General	java.lang.String
+assayName	SEQe	java.lang.String
+userName	bjacka@kirby.unsw.edu.au	java.lang.String
+workingDir	C:\Program Files\LabKey Server\files\VHKEY3\@files\TransformAndValidationFiles\AssayId_70\44	java.lang.String
+protocolLsid	urn:lsid:kirby.unsw.edu.au:GeneralAssayProtocol.Folder-104:SEQe	java.lang.String
+protocolId	70	java.lang.String
+runComments		java.lang.String
+runDataUploadedFile	runDataFile.tsv
+runDataFile	runDataFile2.tsv	AssayRunTSVData	runDataFile3.tsv
+errorsFile	C:\Program Files\LabKey Server\files\VHKEY3\@files\TransformAndValidationFiles\AssayId_70\44\validationErrors.tsv
+transformedRunPropertiesFile	C:\Program Files\LabKey Server\files\VHKEY3\@files\TransformAndValidationFiles\AssayId_70\44\transformedRunProperties.tsv
